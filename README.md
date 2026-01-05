@@ -25,10 +25,6 @@ From sleek UI to powerful backend systems — I build it all with creativity and
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
 ---
 
 
@@ -47,8 +43,6 @@ From sleek UI to powerful backend systems — I build it all with creativity and
 
 ---
 
-## ⚡ Fun Fact
-I turn **coffee + creativity + code** into full production-grade applications ⚡.
 
 ---
 
